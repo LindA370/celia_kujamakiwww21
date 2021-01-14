@@ -5,6 +5,7 @@ body {
     color: maroon;
 }
 h1 {
+    text-decoration: overline;
     border-bottom: double darkred;
     font-size: 16px;
     color: papayawhip;
