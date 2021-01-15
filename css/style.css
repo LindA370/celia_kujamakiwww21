@@ -12,3 +12,8 @@ h1 {
     color: papayawhip;
 }
 a:hover {  background-color: lightgoldenrodyellow;}
+mark{
+        background-color: maroon;
+        color: white;
+      
+}
