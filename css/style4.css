@@ -1,0 +1,37 @@
+header{
+    background-color: lightpink;
+    color: maroon;
+    height: 300px;
+    text-align: center;
+    font-size: 30px;
+
+}
+footer {
+    background-color: bisque;
+    color: brown;
+    height: 100px;
+    text-align: center;
+}
+leftbar {
+    background-color: lightskyblue;
+    min-height: 500px;
+    width: 300px;
+    text-align: left;
+    display: flex;
+    align-items: stretch;
+}
+.wrapper{
+margin: auto;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+   body { 
+            margin: 0 auto; 
+            background-position:center; 
+            background-size: contain; 
+        }
+
+
