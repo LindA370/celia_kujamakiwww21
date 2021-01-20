@@ -4,3 +4,10 @@
 .nav-link{
     color: black;
 }
+table, tr, td {
+    border: black 1px solid;
+}
+th{
+    border: black 1px solid;
+    background-color: #F7074F; 
+}
