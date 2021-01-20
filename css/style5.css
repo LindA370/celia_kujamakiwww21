@@ -38,12 +38,12 @@ footer {
 }
 .notahhai {float: left;
 width: 30%;
-height: 300px; /* only for demonstration, should be removed */
-background: #ccc;
+height: 500px; /* only for demonstration, should be removed */
+background: white;
 padding: 20px;
 }
 ul{
-    list-style-type: none;
+    list-style-type:lower-greek;
     padding: 0;
 }
 table{
@@ -53,7 +53,7 @@ table{
     box-sizing:content-box;
   }
 .inters {
-    float: left;
+    float: right;
     padding: 20px;
     width: 70%;
     background-color: lightpink;
