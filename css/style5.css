@@ -30,4 +30,16 @@ footer {
     text-align: center;
     color: black;
   }
-  
+  @media (max-width: 600px) {
+    nav, article {
+      width: 100%;
+      height: auto;
+    }
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+.Fams{
+    background-color: #AAEA8B;
+}
