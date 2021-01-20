@@ -18,6 +18,16 @@ h1{
     font-size: 10px;
     font-family: fantasy;
 }
-header{
-  background-color:#F7074F ;
+body{
+    background-image: url("../img/Fam.webp");
 }
+header{
+    color:black
+}
+footer {
+    background-color: #F7074F;
+    padding: 10px;
+    text-align: center;
+    color: black;
+  }
+  
