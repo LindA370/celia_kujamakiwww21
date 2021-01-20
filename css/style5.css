@@ -40,7 +40,7 @@ ul{
     list-style-type:armenian;
     padding: 0;
 }
-.Fams{
+table{
     background-color: #AAEA8B;
 }
 * {
@@ -50,6 +50,6 @@ ul{
     float: left;
     padding: 20px;
     width: 70%;
-    background-color: #f1f1f1;
-    height: 300px; /* only for demonstration, should be removed */
+    background-color: lightpink;
+    height: 500px; /* only for demonstration, should be removed */
   }
