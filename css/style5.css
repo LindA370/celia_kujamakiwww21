@@ -36,8 +36,14 @@ footer {
       height: auto;
     }
 }
+.notahhai {float: left;
+width: 30%;
+height: 300px; /* only for demonstration, should be removed */
+background: #ccc;
+padding: 20px;
+}
 ul{
-    list-style-type:armenian;
+    list-style-type: none;
     padding: 0;
 }
 table{
