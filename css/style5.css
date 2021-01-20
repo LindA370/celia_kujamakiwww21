@@ -37,7 +37,7 @@ footer {
     }
 }
 ul{
-    list-style-type: none;
+    list-style-type:armenian;
     padding: 0;
 }
 .Fams{
@@ -46,7 +46,7 @@ ul{
 * {
     box-sizing:content-box;
   }
-  article {
+.inters {
     float: left;
     padding: 20px;
     width: 70%;
