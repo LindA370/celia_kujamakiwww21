@@ -4,10 +4,17 @@
 .nav-link{
     color: black;
 }
-table, tr, td {
+table, tr, td{
     border: black 1px solid;
 }
 th{
     border: black 1px solid;
     background-color: #F7074F; 
+}
+header{
+    background-color: #FD89AC;
+    color: #E75480;
+    height: 300px;
+    text-align: center;
+    font-size: 30px;
 }
