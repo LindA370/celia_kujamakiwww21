@@ -33,5 +33,19 @@ ul {
             background-position:center; 
             background-size: contain; 
         }
-
-
+nav ul {
+    float: left;
+height: 500px; /* only for demonstration, should be removed */
+padding: 20px;
+background-color: lightskyblue;
+width: 300px;
+text-align: left;
+display: flex;
+align-items: stretch;
+}
+.fmal{float: right;
+padding: 20px;
+width: 70%;
+background-color: white;
+height: 500px; /* only for demonstration, should be removed */
+}
