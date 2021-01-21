@@ -12,14 +12,6 @@ footer {
     height: 100px;
     text-align: center;
 }
-leftbar {
-    background-color: lightskyblue;
-    min-height: 500px;
-    width: 300px;
-    text-align: left;
-    display: flex;
-    align-items: stretch;
-}
 .wrapper{
 margin: auto;
 }
